@@ -25,7 +25,8 @@ My name is Erick, I'm a FullStack Developer.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/webpack.svg' height='42px'>
 </p>
 
-![My Data](https://wakatime.com/share/@f20ed7c3-6b85-441c-93a7-55fb0eeae6f7/c5bba0a1-f170-4506-9620-35f71f8af421.svg)
+.. image:: https://wakatime.com/share/@f20ed7c3-6b85-441c-93a7-55fb0eeae6f7/980dccc8-798f-48e2-ba38-935e6c21d6e6.png
+    :target: https://wakatime.com/
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
