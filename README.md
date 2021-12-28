@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Erick, I'm a FullStack Developer.
+
 <!--
 **GuzmiDev/GuzmiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
