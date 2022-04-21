@@ -21,8 +21,10 @@ My name is Erick, I'm a FullStack Developer.
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/mariadb.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/apache.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/react.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/vue.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/laravel.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/redux.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/vuex.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/sass.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/webpack.svg' height='42px'>
   
