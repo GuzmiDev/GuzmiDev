@@ -12,9 +12,6 @@ My name is Erick, I'm a FullStack Developer.
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/nodejs.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/php.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/flutter.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/csharp.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/java.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/mysql.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/sql.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/mongo.png' height='42px'>
@@ -23,6 +20,7 @@ My name is Erick, I'm a FullStack Developer.
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/react.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/vue.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/laravel.png' height='42px'>
+  <img src='https://w7.pngwing.com/pngs/622/716/png-transparent-cakephp-hd-logo.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/redux.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/vuex.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/sass.png' height='42px'>
