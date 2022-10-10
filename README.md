@@ -20,7 +20,7 @@ My name is Erick, I'm a FullStack Developer.
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/react.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/vue.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/laravel.png' height='42px'>
-  <img src='https://w7.pngwing.com/pngs/622/716/png-transparent-cakephp-hd-logo.png' height='42px'>
+  <img src='https://cdn.iconscout.com/icon/free/png-256/cakephp-3521321-2944740.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/redux.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/vuex.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/sass.png' height='42px'>
