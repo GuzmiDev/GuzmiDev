@@ -11,6 +11,8 @@ My name is Erick, I'm a FullStack Developer.
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/css.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/nodejs.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/nest.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/graphql.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/php.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/mysql.png' height='42px'>
   <img src='https://raw.githubusercontent.com/GuzmiDev/GuzmiDev/main/skills/sql.png' height='42px'>
